@@ -35,7 +35,7 @@
         <pluginRepository>
             <id>M2Internal</id>
             <name>Archiva Managed Internal Repository</name>
-            <url>http://rm-tst00.boi.rd.hpicorp.net:8090/archiva/repository/internal</url>
+            <url>http://my-surce-system/archiva/repository/internal</url>
         </pluginRepository>
     </pluginRepositories>
 </project>
